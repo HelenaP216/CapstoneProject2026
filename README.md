@@ -14,6 +14,10 @@ The project uses Nicholas Culpeper's *The Complete Herbal* (Project Gutenberg ed
 
 
 
+This project demonstrates how Artificial Intelligence can support Digital Humanities research by making historical medical texts more accessible and searchable. Future versions could help bridge Digital Humanities and pharmacological research by enabling large-scale exploration of historical medicinal knowledge.
+
+
+
 ---
 
 
